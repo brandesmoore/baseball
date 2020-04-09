@@ -1,5 +1,5 @@
 # Baseball
-A look into a the Lahman Baseball database.
+A look into the Lahman Baseball database.
 
 # THE DATA
 The Lahman Baseball database is a comprehensive database that contains pitching, hitting, and fielding statistics for Major League Baseball from 1871 through 2016.
